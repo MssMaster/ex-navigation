@@ -44,7 +44,7 @@ As of version 1.9.0, ExNavigation only supports React Native versions >=
 0.36.0 due to changes to the css-layout algorithm in React Native core.
 
 
-- `npm i @expo/ex-navigation babel-preset-react-native-stage-0 --save`
+- `npm i MssMaster/@expo/ex-navigation --save`
 - Change your `.babelrc` (if you have one, if not, then create one):
 
 ```
